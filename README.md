@@ -53,3 +53,7 @@ To begin using the Morse Code Communicator on BASYS 3 FPGA:
 ## Contributing:
 Contributions to enhance functionality, improve documentation, or optimize code are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes.
 
+## Output:
+Decoder
+
+![image](https://github.com/user-attachments/assets/e2e3acd2-2a2f-45eb-886a-213a69bdf273)
